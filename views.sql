@@ -1,9 +1,8 @@
--- CS4400: Introduction to Database Systems (Summer 2026)
--- Project Phase III: View SHELL [v0] May 16, 2026
--- Team 12
--- Deven Nahata (dnahata7)
--- Grant Webb (gwebb36)
--- Vyom Shah (vshah391)
+-- Database Systems
+-- May 16, 2026
+-- Deven Nahata
+-- Grant Webb
+-- Vyom Shah
 
 set global transaction isolation level serializable;
 set global SQL_MODE = 'ANSI,TRADITIONAL';
