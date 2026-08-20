@@ -1,6 +1,5 @@
--- CS4400: Introduction to Database Systems (Summer 2026)
--- Project Phase III: Stored Procedures July 8th, 2026
--- Team 12
+-- Database Systems
+-- Stored Procedures July 8th, 2026
 
 set global transaction isolation level serializable;
 set global SQL_MODE = 'ANSI,TRADITIONAL';
