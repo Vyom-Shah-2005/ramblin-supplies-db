@@ -1,0 +1,45 @@
+# Credentials and local config
+.env
+.env.*
+my.cnf
+.my.cnf
+*credentials*
+*secret*
+
+# Database dumps and local data files
+*.dump
+*.bak
+dump.sql
+backup_*.sql
+*.ibd
+*.frm
+*.MYD
+*.MYI
+
+# MySQL Workbench autosaves
+*.mwb.bak
+*.sql.bak
+*~
+
+# Logs
+*.log
+mysql-error.log
+slow-query.log
+
+# IDE and editor
+.vscode/
+.idea/
+*.iml
+*.swp
+*.swo
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+Thumbs.db
+desktop.ini
+
+# Course materials — do not commit
+*phase*instructions*
+*assignment*spec*
